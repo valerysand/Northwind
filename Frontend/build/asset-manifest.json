@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.675c5abd.chunk.css",
+    "main.js": "/static/js/main.7a77669d.chunk.js",
+    "main.js.map": "/static/js/main.7a77669d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19902ac9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19902ac9.js.map",
+    "static/js/2.440b7797.chunk.js": "/static/js/2.440b7797.chunk.js",
+    "static/js/2.440b7797.chunk.js.map": "/static/js/2.440b7797.chunk.js.map",
+    "static/js/3.bd48831f.chunk.js": "/static/js/3.bd48831f.chunk.js",
+    "static/js/3.bd48831f.chunk.js.map": "/static/js/3.bd48831f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.675c5abd.chunk.css.map": "/static/css/main.675c5abd.chunk.css.map",
+    "static/js/2.440b7797.chunk.js.LICENSE.txt": "/static/js/2.440b7797.chunk.js.LICENSE.txt",
+    "static/media/Adidas.0d5d42b5.jpg": "/static/media/Adidas.0d5d42b5.jpg",
+    "static/media/AdidasLogo.d930f1c4.jpg": "/static/media/AdidasLogo.d930f1c4.jpg",
+    "static/media/Crocks.97675e1c.jpg": "/static/media/Crocks.97675e1c.jpg",
+    "static/media/NewBalanceLogo.0cf074ac.jpg": "/static/media/NewBalanceLogo.0cf074ac.jpg",
+    "static/media/Nike.077f7f74.jpg": "/static/media/Nike.077f7f74.jpg",
+    "static/media/NikeLogo.45d6c0ba.jpg": "/static/media/NikeLogo.45d6c0ba.jpg",
+    "static/media/Source.c8364967.jpg": "/static/media/Source.c8364967.jpg",
+    "static/media/VansLogo.44caede4.jpg": "/static/media/VansLogo.44caede4.jpg",
+    "static/media/loading.c7d9f081.gif": "/static/media/loading.c7d9f081.gif",
+    "static/media/logo.5a26186f.jpg": "/static/media/logo.5a26186f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19902ac9.js",
+    "static/js/2.440b7797.chunk.js",
+    "static/css/main.675c5abd.chunk.css",
+    "static/js/main.7a77669d.chunk.js"
+  ]
+}

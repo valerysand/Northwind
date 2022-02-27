@@ -1,0 +1,13 @@
+.BackColor {
+	background-color: magenta;
+    color: white;
+}
+
+.LargeText {
+    font-size: larger;
+}
+
+.BackColor a {
+    color: green;
+    font-weight: bold;
+}
